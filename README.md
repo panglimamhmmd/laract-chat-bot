@@ -1,3 +1,5 @@
+<h1>Laravel - React Chat Bot App Project Usage</h1>
+<p>Aplikasi Chat Bot menggunakan Laravel dan React adalah proyek yang memungkinkan pengguna untuk berinteraksi dengan bot melalui pesan teks. </p>
 <ol>
   <li>Run <code>git clone projek ini</code></li>
 
