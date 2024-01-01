@@ -3,7 +3,7 @@
 <ol>
   <li>Run <code>git clone projek ini</code></li>
 
-<li> Tambahkan:Pastikan sudah menginstall Composer untuk Laravel, Node.js, dan npm untuk React, serta XAMPP (PHP dan MySQL)</li>
+<li>Pastikan sudah menginstall Composer untuk Laravel, Node.js, dan npm untuk React, serta XAMPP (PHP dan MySQL)</li>
       <li>Run <code>composer install</code></li>
       <li>Run <code>npm install</code></li>
       <li>Run <code>cp .env.example .env</code></li>
