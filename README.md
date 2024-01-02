@@ -19,6 +19,11 @@
   <li>Buka Link pada browser <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a></li>
 </ol> 
 
+<h3> Code Reference:</h3>
+<a href="https://tailwindcomponents.com/component/quickchat-chat-layout">https://tailwindcomponents.com/component/quickchat-chat-layout</a>
+<br/>
+<a href="https://tailwindcomponents.com/component/quickchat-chat-layout](https://github.com/openai-php/laravel">https://tailwindcomponents.com/component/quickchat-chat-layout</a>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -28,9 +33,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<h3> Code Reference:</h3>
-<a href="https://tailwindcomponents.com/component/quickchat-chat-layout">https://tailwindcomponents.com/component/quickchat-chat-layout</a>
-<a href="https://tailwindcomponents.com/component/quickchat-chat-layout](https://github.com/openai-php/laravel">https://tailwindcomponents.com/component/quickchat-chat-layout</a>
+
 
 
 ## About Laravel
