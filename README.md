@@ -19,6 +19,16 @@
   <li>Buka Link pada browser <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a></li>
 </ol> 
 
+
+
+
+https://github.com/panglimamhmmd/laract-chat-bot/assets/88122743/682aafda-4492-4b92-829f-53329d6a8190
+
+
+
+https://github.com/panglimamhmmd/laract-chat-bot/assets/88122743/f86aaf25-8f8f-4dd2-8e04-0b2f00acff20
+
+
 <h3> Code Reference:</h3>
 <a href="https://tailwindcomponents.com/component/quickchat-chat-layout">https://tailwindcomponents.com/component/quickchat-chat-layout</a>
 <br/>
