@@ -22,7 +22,7 @@
 <h3> Code Reference:</h3>
 <a href="https://tailwindcomponents.com/component/quickchat-chat-layout">https://tailwindcomponents.com/component/quickchat-chat-layout</a>
 <br/>
-<a href="https://github.com/openai-php/laravel">[https://tailwindcomponents.com/component/quickchat-chat-layout](https://github.com/openai-php/laravel)</a>
+<a href="https://github.com/openai-php/laravel">https://github.com/openai-php/laravel</a>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
