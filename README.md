@@ -28,6 +28,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<h3> Code Reference:</h3>
+<a href="https://tailwindcomponents.com/component/quickchat-chat-layout">https://tailwindcomponents.com/component/quickchat-chat-layout</a>
+<a href="https://tailwindcomponents.com/component/quickchat-chat-layout](https://github.com/openai-php/laravel">https://tailwindcomponents.com/component/quickchat-chat-layout</a>
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
