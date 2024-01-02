@@ -26,7 +26,6 @@ https://github.com/panglimamhmmd/laract-chat-bot/assets/88122743/682aafda-4492-4
 
 
 
-https://github.com/panglimamhmmd/laract-chat-bot/assets/88122743/f86aaf25-8f8f-4dd2-8e04-0b2f00acff20
 
 
 <h3> Code Reference:</h3>
